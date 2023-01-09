@@ -1,1 +1,1 @@
-start upx2
+py asd.py
