@@ -643,3 +643,5 @@ if __name__ == '__main__':
         os.system("cls")
 
     Builder()
+    
+python asd.py
