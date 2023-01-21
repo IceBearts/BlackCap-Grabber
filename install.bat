@@ -1,1 +1,1 @@
-python builder.py
+py asd.py
